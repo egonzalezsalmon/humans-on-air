@@ -1,0 +1,14 @@
+# _data/navigation.yml
+# Menú de navegación superior
+
+main:
+  - title: "Sobre el proyecto"
+    url: /sobre/
+  - title: "Noticias"
+    url: /noticias/
+  - title: "Charlas"
+    url: /charlas/
+  - title: "Talleres"
+    url: /talleres/
+  - title: "Equipo"
+    url: /equipo/

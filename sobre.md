@@ -16,6 +16,8 @@ Humans on AIr se plantea como un espacio de reflexión sobre las intersecciones 
 
 Su objetivo principal es desarrollar acciones de formación, concienciación y comunicación científica que visibilicen la necesidad y el potencial de integrar las Ciencias Sociales y Humanidades (SSH) en la alfabetización algorítmica y en los debates sobre el desarrollo y uso de sistemas basados en inteligencia artificial generativa, modelos de lenguaje y tecnologías de la lengua y del habla. 
 
+Además lo puedo editar desde el móvil
+
 ## Proyecto principal
 
 Humans on AIr forma parte de [U^CHASS](https://uchass.ugr.es/)

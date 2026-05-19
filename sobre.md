@@ -18,7 +18,7 @@ Su objetivo principal es desarrollar acciones de formación, concienciación y c
 
 ## Proyecto principal
 
-Humans on AIr forma parte de U^CHASS(https://uchass.ugr.es/)
+Humans on AIr forma parte de [U^CHASS](https://uchass.ugr.es/)
 
 ## Contacto
 

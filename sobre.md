@@ -10,22 +10,16 @@ author_profile: false
 
 ## Descripción general
 
-Escribe aquí una introducción al proyecto. Qué se investiga, en qué contexto y por qué es relevante.
+Humans on AIr se plantea como un espacio de reflexión sobre las intersecciones entre las humanidades, el lenguaje, las ciencias sociales y la tecnología. 
 
-## Objetivos
+## Objetivo
 
-- Objetivo 1
-- Objetivo 2
-- Objetivo 3
+Su objetivo principal es desarrollar acciones de formación, concienciación y comunicación científica que visibilicen la necesidad y el potencial de integrar las Ciencias Sociales y Humanidades (SSH) en la alfabetización algorítmica y en los debates sobre el desarrollo y uso de sistemas basados en inteligencia artificial generativa, modelos de lenguaje y tecnologías de la lengua y del habla. 
 
-## Metodología
+## Proyecto principal
 
-Describe el enfoque metodológico del proyecto.
-
-## Financiación
-
-Información sobre entidades financiadoras, referencias de proyectos, etc.
+Humans on AIr forma parte de U^CHASS(https://uchass.ugr.es/)
 
 ## Contacto
 
-Para más información, escribe a [tu@email.com](mailto:tu@email.com).
+Para más información, escribe a [uchass.ugr@gmail.com](mailto:uchass.ugr@gmail.com).

@@ -1,0 +1,25 @@
+---
+---
+
+// 1. Define your custom colors
+$primary-color: #b00020;  // Deep Red
+$dark-color:    #000000;  // Black
+$light-color:   #eee7dc;  // Warm Beige/Almond
+
+// 2. Map them to Minimal Mistakes skin variables
+$background-color: $light-color; 
+$text-color:       $dark-color;  
+$muted-text-color: mix($dark-color, $light-color, 60%); 
+
+// UI Elements & Accents
+$brand-color:      $primary-color; 
+$link-color:       $primary-color; 
+$link-color-hover: darken($primary-color, 15%);
+
+// Buttons & Masthead
+$masthead-link-color: $dark-color;
+$masthead-link-color-hover: $primary-color;
+
+// 3. Import default theme settings (Do NOT use /skins/humans here)
+@import "minimal-mistakes/skins/default"; 
+@import "minimal-mistakes";

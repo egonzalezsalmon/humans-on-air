@@ -3,7 +3,7 @@
 # =============================================================
 
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
-minimal_mistakes_skin: "default"
+theme_skin: "default"
 
 title: "Humans on AIr"
 name: "Tu Nombre o Equipo"

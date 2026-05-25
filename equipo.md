@@ -11,7 +11,7 @@ author_profile: false
 
 <div class="team-member" markdown="1">
 
-### Nombre Apellido
+### Nicolas Robinson-Garcia
 **Cargo:** Investigador/a principal  
 **Institución:** Universidad de …  
 **Áreas:** Área 1, Área 2  

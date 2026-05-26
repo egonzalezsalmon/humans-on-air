@@ -5,20 +5,16 @@ permalink: /equipo/
 author_profile: false
 ---
 
-## Investigadores/as principales
+## Investigador principal
 
 ---
 
 <div class="team-member" markdown="1">
 
-### Nicolas Robinson-Garcia
+### Benmaí Barros García  
 **Cargo:** Investigador/a principal  
-**Institución:** Universidad de …  
-**Áreas:** Área 1, Área 2  
-**Email:** [nombre@universidad.es](mailto:nombre@universidad.es)  
-**Web:** [perfil institucional](https://ejemplo.com)
-
-Breve bio de dos o tres frases.
+**Institución:** Universidad de Granada  
+**Web:** [perfil institucional](https://uchass.ugr.es/miembro/benami-barros-garcia/)
 
 </div>
 
@@ -30,11 +26,9 @@ Breve bio de dos o tres frases.
 
 <div class="team-member" markdown="1">
 
-### Nombre Apellido
-**Cargo:** Investigador/a postdoctoral  
-**Institución:** …  
-
-Breve bio.
+### Nicolas Robinson-Garcia
+**Institución:** Universidad de Granada  
+**Web:** [perfil institucional](https://uchass.ugr.es/miembro/nicolas-robinson-garcia/)
 
 </div>
 
@@ -42,26 +36,50 @@ Breve bio.
 
 <div class="team-member" markdown="1">
 
-### Nombre Apellido
-**Cargo:** Investigador/a predoctoral  
-**Institución:** …  
-
-Breve bio.
+### Zoraida Callejas Carrión
+**Institución:** Universidad de Granada  
+**Web:** [perfil institucional](https://directorio.ugr.es/static/PersonalUGR/*/show/35bd28aa8c60381c4f343e1605fd5ad7/)
 
 </div>
 
 ---
 
-## Colaboradores/as externos
+<div class="team-member" markdown="1">
+
+### Pilar León Araúz
+**Institución:** Universidad de Granada  
+**Web:** [perfil institucional](https://uchass.ugr.es/miembro/pilar-leon-arauz/)
+
+</div>
 
 ---
 
 <div class="team-member" markdown="1">
 
-### Nombre Apellido
-**Institución:** …  
+### Elvira González Salmón
+**Institución:** Universidad de Granada  
+**Web:** [perfil institucional](https://uchass.ugr.es/miembro/elvira-m-gonzalez-salmon/)
 
-Breve descripción de la colaboración.
+</div>
+
+---
+
+<div class="team-member" markdown="1">
+
+### Sergio Castro Cortacero
+**Institución:** Universidad de Granada  
+**Web:** [perfil institucional](https://uchass.ugr.es/miembro/sergio-castro-cortacero/)
+
+</div>
+
+---
+
+
+<div class="team-member" markdown="1">
+
+### Inés de los Ángeles González Hidalgo
+**Institución:** Universidad de Granada  
+**Web:** [perfil institucional](https://uchass.ugr.es/miembro/ines-de-los-angeles-gonzalez-hidalgo/)
 
 </div>
 

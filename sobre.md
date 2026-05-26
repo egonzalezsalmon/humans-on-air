@@ -18,7 +18,7 @@ Su objetivo principal es desarrollar acciones de formación, concienciación y c
 
 ## Proyecto principal
 
-Humans on AIr encaja dentro de Proyecto Humans on AIr (MediaUGR-3) y forma parte de [U^CHASS](https://uchass.ugr.es/) y 
+Humans on AIr encaja dentro de Proyecto Humans on AIr (MediaUGR-3) y forma parte de [U^CHASS](https://uchass.ugr.es/).
 
 ## Colaboración y asociaciones
 

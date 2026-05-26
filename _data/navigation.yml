@@ -2,6 +2,8 @@
 # Menú de navegación superior
 
 main:
+  - title: "Inicio"
+    url: /
   - title: "Sobre el proyecto"
     url: /sobre/
   - title: "Equipo"

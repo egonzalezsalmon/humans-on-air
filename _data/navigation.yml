@@ -4,11 +4,10 @@
 main:
   - title: "Sobre el proyecto"
     url: /sobre/
-  - title: "Noticias"
-    url: /noticias/
+    children:
+      - title: "Equipo"
+        url: /equipo/
   - title: "Charlas"
     url: /charlas/
   - title: "Talleres"
     url: /talleres/
-  - title: "Equipo"
-    url: /equipo/

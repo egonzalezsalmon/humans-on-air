@@ -11,7 +11,7 @@ author_profile: false
 
 <div class="team-member" markdown="1">
 
-### Benmaí Barros García  
+### Benamí Barros García  
 **Cargo:** Investigador/a principal  
 **Institución:** Universidad de Granada  
 **Web:** [perfil institucional](https://uchass.ugr.es/miembro/benami-barros-garcia/)

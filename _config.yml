@@ -12,7 +12,7 @@ url: "https://egonzalezsalmon.github.io"
 baseurl: "/humans-on-air" 
 
 locale: "es-ES"
-logo: "/assets/images/logo.png"  # opcional
+logo: "/assets/images/logo_combo.png"  # opcional
 
 # ----- Autor por defecto -----
 author:

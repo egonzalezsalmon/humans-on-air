@@ -18,7 +18,11 @@ Su objetivo principal es desarrollar acciones de formación, concienciación y c
 
 ## Proyecto principal
 
-Humans on AIr forma parte de [U^CHASS](https://uchass.ugr.es/)
+Humans on AIr encaja dentro de Proyecto Humans on AIr (MediaUGR-3) y forma parte de [U^CHASS](https://uchass.ugr.es/) y 
+
+## Colaboración y asociaciones
+
+Es un proyecto asociado a PID 25-263 «Herramientas basadas en IA generativa en el aula de traducción: alfabetización algorítmica y observatorio de metodologías docentes» y colabora con el Máster en Traducción Profesional (Universidad de Granada). 
 
 ## Contacto
 

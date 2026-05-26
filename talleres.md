@@ -25,8 +25,6 @@ TBA
 
 ---
 
----
-
 ### Modelos de lenguaje como agentes colaboradores en revisión bibliográfica, gestión terminológica y evaluación de la calidad en Traducción  
 **Fecha:** 28 de abril de 2026  
 **Lugar:** Aula 21, Facultad de Traducción e Interpretación (Universidad de Granada)  

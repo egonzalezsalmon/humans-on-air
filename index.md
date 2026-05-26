@@ -6,7 +6,7 @@ header:
   overlay_color: "#1a1a2e"
   overlay_filter: 0.5
   overlay_image: /assets/images/banner.jpg
-  excerpt: "Reflexiones sobre humanidades, lenguaje y tecnología"
+  tagline: "Reflexiones sobre humanidades, lenguaje y tecnología"
   caption: ""
 ---
 

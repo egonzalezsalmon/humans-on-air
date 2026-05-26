@@ -12,4 +12,4 @@ header:
 
 ## ÚLTIMAS NOTICIAS
 
-Aquí encontrarás cualquier cambio de última hora o aviso importante que surja en el marco del proyecto. 
+Aquí encontrarás cualquier cambio de última hora o aviso importante que surja en el marco del proyecto.

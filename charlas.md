@@ -39,7 +39,7 @@ Breve descripción de la charla.
 
 Preguntarse si tiene sexo la tecnología no es algo trivial en un mundo en el que marca prioridades, presupuestos y agenda. Indagar en cómo mujeres y hombres se han relacionado históricamente con la tecnología o cómo se han percibido ante ella es vital para entender la supuesta distancia entre las mujeres y lo tecnológico. Para poder identificar o analizar posibles prejuicios debemos cuestionarnos el propio concepto de tecnología y reexaminar la cultura material de las sociedades del pasado.
 
-</details>
+</details>  
 
 [Ver grabación](https://youtube.com/watch?v=tCKSowair2Y){: .btn .btn--inverse} 
 
@@ -59,7 +59,7 @@ Preguntarse si tiene sexo la tecnología no es algo trivial en un mundo en el qu
 
 Evaluar la calidad de las publicaciones académicas es una tarea lenta que requiere expertos. Hasta hace poco, los principales indicadores cuantitativos eran las citas. Ahora hay evidencia de que las puntuaciones de los grandes modelos de lenguaje se asocian más fuertemente con la calidad de la investigación. Esta charla revisa la evidencia existente y plantea cómo y si es posible utilizar los LLMs para apoyar evaluaciones de investigación.
 
-</details>
+</details>  
 
 [Ver grabación](https://youtube.com/watch?v=lBQe968sI4k){: .btn .btn--inverse} 
 
@@ -75,7 +75,7 @@ Evaluar la calidad de las publicaciones académicas es una tarea lenta que requi
 
 Esta charla arroja luz sobre el futuro de las profesiones lingüísticas en la era de la IA. Partiendo de la historia del PLN y la traducción automática, y pasando por el Deep Learning hasta los grandes modelos de lenguaje, el ponente ofrece predicciones informadas sobre cómo puede evolucionar la inteligencia artificial en relación con la inteligencia humana.
 
-</details>
+</details>  
 
 [Ver grabación](https://youtube.com/watch?v=n2ZqBmMJ4o0){: .btn .btn--inverse} 
 
@@ -91,7 +91,7 @@ Esta charla arroja luz sobre el futuro de las profesiones lingüísticas en la e
 
 La mayor parte de los aspectos de la IA generativa están aún sujetos a una considerable incertidumbre. Esta charla explora varios modelos de gestión de la incertidumbre y los relaciona con la investigación sobre traducciones automatizadas de mensajes de crisis, proponiendo formas de trabajar con la IA generativa y las tareas lingüísticas para las que seguiremos necesitando profesionales formados.
 
-</details>
+</details>  
 
 [Ver grabación](https://youtube.com/watch?v=cDgKdZg09yA){: .btn .btn--inverse} 
 
@@ -107,7 +107,7 @@ La mayor parte de los aspectos de la IA generativa están aún sujetos a una con
 
 ¿Cuál es la importancia de los estudios del lenguaje hoy? ¿Cuáles son los retos, riesgos y oportunidades asociados al uso generalizado de los grandes modelos de lenguaje y otras tecnologías lingüísticas? Elena Álvarez Mellado y Zoraida Callejas Carrión abordan estas cuestiones en la intersección entre lenguaje, habla y tecnología.
 
-</details>
+</details>  
 
 [Ver grabación](https://youtube.com/watch?v=GZN0GkwODwo){: .btn .btn--inverse} 
 
@@ -123,6 +123,6 @@ La mayor parte de los aspectos de la IA generativa están aún sujetos a una con
 
 Lynne Bowker, profesora de traducción, tecnologías y sociedad en la Universidad Laval (Quebec), aborda el impacto de la proliferación de herramientas y la popularización de la inteligencia artificial en el ámbito y la profesión de la traducción.
 
-</details>
+</details>  
 
 ---

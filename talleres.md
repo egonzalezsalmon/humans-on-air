@@ -14,7 +14,7 @@ author_profile: false
 ### TBA
 **Fecha:** TBA  
 **Lugar:** TBA    
-**Ponente:** TBA 
+**Ponente:** TBA  
 **Dirigido a:** TBA   
 
 TBA

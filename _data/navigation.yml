@@ -4,9 +4,8 @@
 main:
   - title: "Sobre el proyecto"
     url: /sobre/
-    children:
-      - title: "Equipo"
-        url: /equipo/
+  - title: "Equipo"
+    url: /equipo/
   - title: "Charlas"
     url: /charlas/
   - title: "Talleres"

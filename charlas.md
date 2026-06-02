@@ -11,10 +11,12 @@ author_profile: false
 
 ---
 
-### ANECA  
-**Fecha:** 15 de junio de 2026  
-**Lugar:** Sala X, Facultad de …, Universidad de Granada  
-**Ponente:** Pilar Paneque  
+### La evaluación de las carreras académicas en el contexto actual  
+**Fecha:** 15 de junio de 2026, 12:00h  
+**Lugar:** Sala Triunfo, Complejo administrativo Triunfo (Av. Hospicio s/n), Universidad de Granada  
+**Ponente:** Pilar Paneque Salgado (Directora de la Agencia Nacional de Evaluación de la Calidad y Acreditación Catedrática de Geografía Humana de la Universidad Pablo de Olavide)  
+
+Entrada libre hasta completar aforo.  
 
 <details>
 <summary><b>Ver descripción</b></summary>
@@ -32,7 +34,7 @@ Breve descripción de la charla.
 ### ¿Tiene sexo la tecnología? Reflexiones sobre percepciones, atribuciones y sesgos desde la prehistoria  
 **Fecha:** 7 de abril de 2026  
 **Lugar:** Salón de Grados, Facultad de Traducción e Interpretación (Universidad de Granada)  
-**Ponente:** Magda Sánchez Romero  
+**Ponente:** Magda Sánchez Romero (Universidad de Granada)  
 
 <details>
 <summary><b>Ver descripción</b></summary>
@@ -52,7 +54,7 @@ Preguntarse si tiene sexo la tecnología no es algo trivial en un mundo en el qu
 ### The AI Evaluator? Large Language Models and the Future of Research Assessment  
 **Fecha:** 11 de junio de 2025  
 **Lugar:** Sala de Conferencias, Facultad de Traducción e Interpretación (Universidad de Granada)  
-**Ponente:** Mike Thelwall  
+**Ponente:** Mike Thelwall (University of Sheffield)  
 
 <details>
 <summary><b>Ver descripción</b></summary>
@@ -68,7 +70,7 @@ Evaluar la calidad de las publicaciones académicas es una tarea lenta que requi
 ### Language Professions in the Era of Artificial Intelligence: The Wind of Change is Blowing  
 **Fecha:** 4 de junio de 2025  
 **Lugar:** Aula Magna, Escuela Técnica Superior de Arquitectura (ETSAG, Universidad de Granada)  
-**Ponente:** Ruslan Mitkov  
+**Ponente:** Ruslan Mitkov (Lancaster University)  
 
 <details>
 <summary><b>Ver descripción</b></summary>
@@ -84,7 +86,7 @@ Esta charla arroja luz sobre el futuro de las profesiones lingüísticas en la e
 ### Managing uncertainties of generative AI translation  
 **Fecha:** 7 de mayo de 2025  
 **Lugar:** Sala de Conferencias, Facultad de Traducción e Interpretación (Universidad de Granada)  
-**Ponente:** Anthony Pym  
+**Ponente:** Anthony Pym (Universitat Rovira i Virgili)  
 
 <details>
 <summary><b>Ver descripción</b></summary>
@@ -100,7 +102,7 @@ La mayor parte de los aspectos de la IA generativa están aún sujetos a una con
 ### Las tecnologías del lenguaje: retos y oportunidades  
 **Fecha:** 30 de abril de 2025  
 **Lugar:** Salón de Grados, Facultad de Traducción e Interpretación (Universidad de Granada)  
-**Ponente:** Elena Álvarez Mellado y Zoraida Callejas Carrión  
+**Ponente:** Elena Álvarez Mellado (Universidad Autónoma de Madrid) y Zoraida Callejas Carrión (Universidad de Granada)  
 
 <details>
 <summary><b>Ver descripción</b></summary>
@@ -116,7 +118,7 @@ La mayor parte de los aspectos de la IA generativa están aún sujetos a una con
 ### Translation in the age of AI  
 **Fecha:** 19 de marzo de 2025  
 **Lugar:** Sala de Conferencias, Facultad de Traducción e Interpretación (Universidad de Granada)  
-**Ponente:** Lynne Bowker  
+**Ponente:** Lynne Bowker (Université Laval)  
 
 <details>
 <summary><b>Ver descripción</b></summary>

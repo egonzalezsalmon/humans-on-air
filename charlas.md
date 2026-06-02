@@ -16,14 +16,8 @@ author_profile: false
 **Lugar:** Sala Triunfo, Complejo administrativo Triunfo (Av. Hospicio s/n), Universidad de Granada  
 **Ponente:** Pilar Paneque Salgado (Directora de la Agencia Nacional de Evaluación de la Calidad y Acreditación Catedrática de Geografía Humana de la Universidad Pablo de Olavide)  
 
-Entrada libre hasta completar aforo.  
+**Entrada libre hasta completar aforo.** 
 
-<details>
-<summary><b>Ver descripción</b></summary>
-
-Breve descripción de la charla.
-
-</details>
 
 ---
 

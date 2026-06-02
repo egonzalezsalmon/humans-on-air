@@ -22,7 +22,7 @@ Humans on AIr encaja dentro de Proyecto Humans on AIr (MediaUGR-3) y forma parte
 
 ## Colaboración y asociaciones
 
-Es un proyecto asociado a PID 25-263 «Herramientas basadas en IA generativa en el aula de traducción: alfabetización algorítmica y observatorio de metodologías docentes» y colabora con el Máster en Traducción Profesional (Universidad de Granada). 
+El proyecto es actualmente financiado por Medialab UGR con la colaboración de U^CHASS, del proyecto de innovación docente PID 25-263 «Herramientas basadas en IA generativa en el aula de traducción: alfabetización algorítmica y observatorio de metodologías docentes» y del Máster en Traducción Profesional (Universidad de Granada). También ha recibido ayuda y financiación en el pasado de la Unidad de Cultura Científica de la UGR.
 
 ## Contacto
 

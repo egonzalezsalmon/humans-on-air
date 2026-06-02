@@ -28,7 +28,7 @@ TBA
 ### Modelos de lenguaje como agentes colaboradores en revisión bibliográfica, gestión terminológica y evaluación de la calidad en Traducción  
 **Fecha:** 28 de abril de 2026  
 **Lugar:** Aula 21, Facultad de Traducción e Interpretación (Universidad de Granada)  
-**Ponente:** Miguel Moreno Muñoz  
+**Ponente:** Miguel Moreno Muñoz (Universidad de Granada)  
 **Dirigido a:** Profesorado universitario y estudiantado de Traducción e Interpretación o especialidades relacionadas con el lenguaje. Sin requisitos técnicos previos. Se ruega asistir con ordenador para poder realizar las prácticas.
 
 <details>
